@@ -1,9 +1,11 @@
-# ClarWealth (Moirai): Family Agentic Finance Assistant
+# ClariWealth (Moirai): Family Financial Agent Assistant
 Helping families make smarter financial decisions by balancing Al-driven logic with emotional wellbeing data. 
 
 
 # 📌 Project Overview
- “EMOTIONS CAN HIJACK OUR FINANCIAL DECISIONS IN WAYS LOGIC CAN’T.” – MORGAN HOUSEL, THE PSYCHOLOGY OF MONEY
+> "EMOTIONS CAN HIJACK OUR FINANCIAL DECISIONS IN WAYS LOGIC CAN’T." 
+> **Morgan Housel**, *The Psychology of Money*
+ 
 `Problem Statement` - Families often make poor financial decisions under stress, because traditional budgeting tools ignore emotional welbeing and helping visualize both short-term and long-term goals.
 
 ClariWealth was developed for the Simplify Next Agentic AI Hackathon 2025 to address a critical gap in traditional budgeting: the human element. While 60% of Singapore residents face financial stress due to the rising cost of living, most financial tools rely solely on "pure math and logic," ignoring the emotional states that often lead to poor decision-making. 
