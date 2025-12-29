@@ -44,6 +44,11 @@ Recommendation: The system suggests a "Mid-Range" or "Alternative" support metho
 
 ![slide of our prototype](image.png)
 
+## 👥 Contributors
+* **Hsu** — [https://github.com/ZealousGinger]
+* **Sandhya** — [https://github.com/thehankerer]
+
+
 
 
 
